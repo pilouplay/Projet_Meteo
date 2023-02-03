@@ -20,7 +20,8 @@ Instructions de compilation .
 
 -- tab : tri de données à l'aide d'un tableau (ou liste chaînée) 
 -- abr : tri à l'aide d'une structure d'arbre binaire ABR ou AVL 
--- avl
+-- avl 
+--help donne des in formations sur les options poss iblei
 
 [LIEUX] : 
 
@@ -38,6 +39,7 @@ Instructions de compilation .
 - w < vent > 
 - h < attitude >
 - m < humidité >
+pour les options p et t il est possible de séléctionner des arguments compris entre 1 et 3 qui donneront different graphique
   
 ## L'état du projet
   
